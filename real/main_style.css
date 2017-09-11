@@ -1,0 +1,269 @@
+
+body{
+
+margin: 0;
+
+
+}
+
+#container {
+
+width: 1200px;
+height: 800px;
+
+}
+
+#header{
+
+height:125px;
+position: relative;
+background-image: url(images/grad.jpg);
+background-repeat: no-repeat;
+border-bottom: 1px solid grey;
+
+}
+
+#header a{
+
+text-decoration: none;
+font-family: verdana;
+font-size: 100%;
+color: #660099;
+
+}
+
+#header a:hover{
+
+color: #0033CC;
+
+}
+
+
+
+#container textarea{
+
+resize: none;
+overflow: auto;
+
+}
+
+#header h1{
+
+font-family: New York;
+font-size: 200%;
+color: #0033CC;
+
+}
+
+
+
+.hlinks{
+position: absolute;
+top: 105px;
+left: 35%;
+
+}
+
+.hlinks ul{
+margin:0;
+
+}
+
+.hlinks li{
+margin: 0;
+padding-left: 15px;
+display: inline;
+list-style-type: none;
+
+}
+
+.title_name{
+margin:0;
+
+}
+
+.title_name  h1{
+margin: 0;
+position: absolute;
+left: 10px;
+top: 78px;
+
+}
+
+.login{
+margin: 2px;
+text-decoration: none;
+}
+
+.login  a{
+margin: 2px;
+position: absolute;
+top: 105px;
+left: 95%;
+
+}
+
+.login p{
+
+margin: 2px;
+position: absolute;
+top: 105px;
+left: 78%;
+color: blue;
+
+}
+
+#content{
+
+padding-top: 25px;
+padding-left: 3px;
+font-size: 110%;
+float: left;
+width:80%;
+height:100%;
+background-color: white;
+position: relative;
+
+}
+
+#content a{
+text-decoration: underline;
+color: blue;
+font-family: verdana;
+font-size: 100%;
+
+}
+
+#content a:visited{
+text-decoration: underline;
+font-family: verdana;
+font-size: 100%;
+color: purple;
+}
+
+
+#content a:hover{
+font-family: verdana;
+font-size: 100%;
+color: purple;
+text-decoration: none;
+
+}
+
+
+#ads{
+
+float: right;
+width: 19%;
+height: 100%;
+padding-top: 10px;
+background-color: white;
+border-left: 1px solid grey;
+position: relative;
+
+}
+
+#account_nav{
+
+float: left;
+height: 100%;
+background-color: white;
+position: relative;
+padding-right: 10px;
+border-right: 1px solid #336600;
+border-bottom: 1px solid #336600;
+border-top: 1px solid #336600;
+
+}
+
+#account_nav button{
+
+color: blue;
+
+}
+
+#account_nav button:hover{
+
+color: green;
+
+
+}
+
+#account_content{
+
+float: right;
+height: 100%;
+padding-top: 10px;
+background-color: white;
+position: relative;
+
+}
+
+#messages{
+
+float: right;
+height: 100%;
+background-color: white;
+position: relative;
+border: 1px solid blue;
+
+
+}
+
+#search{
+
+float: left;
+height: 100%;
+background-color: white;
+position: relative;
+border-right: 1px solid grey;
+
+
+}
+
+#sales{
+
+float: left;
+height: 100%;
+background-color: white;
+position: relative;
+padding-left: 90px;
+
+}
+
+#sale{
+
+float: right;
+height: 100%;
+background-color: white;
+position: relative;
+padding-right: 200px;
+
+}
+
+
+#message{
+
+float: right;
+height: 100%;
+padding-top: 50px;
+padding-right: 30px;
+background-color: white;
+position: relative;
+
+}
+
+
+
+
+.vert li{
+margin: 0;
+padding-bottom: 20px;
+list-style-type: none;
+
+}
+
+
+
+
+
